@@ -17,3 +17,14 @@ body {
     height: 120px;
     object-fit: cover;
   }
+
+
+  .footer-wrap {
+    display: flex;
+    justify-content: space-around;
+  }
+  .nav-black {
+    background-color: purple;
+    opacity: 0.9;
+    color: white;
+  }
