@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: black;
+    color: #fff;
+  }
+
+  @media screen and (max-width: 768px) {
+    .display {
+      display: none;
+    }
+
+  }
+  
+  .section-destacados img {
+    height: 120px;
+    object-fit: cover;
+  }
